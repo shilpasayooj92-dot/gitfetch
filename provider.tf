@@ -1,3 +1,3 @@
-provider "azurerm"{
-    feature ()
+provider "azurerm" {
+  features {}
 }
